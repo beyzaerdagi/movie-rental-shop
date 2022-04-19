@@ -1,0 +1,19 @@
+2021/02/01 10:33:40	müşteri eklendi	Ad Soyad:Burcu Kambur	Yas:22	Bakiye:200.0	FilmÜcretMaliyet:0.0
+2021/02/01 10:33:40	müşteri eklendi	Ad Soyad:Ahmet Can	Yas:32	Bakiye:150.0	FilmÜcretMaliyet:0.0
+2021/02/01 10:33:40	müşteri eklendi	Ad Soyad:Eray Aslan	Yas:25	Bakiye:50.0	FilmÜcretMaliyet:0.0
+2021/02/01 10:33:40	film eklendi	Ad:Korku Seansı	İd:48759	Ücret:40.0
+2021/02/01 10:33:40	film eklendi	Ad:Halka	İd:4657	Ücret:50.0
+2021/02/01 10:33:40	film eklendi	Ad:Geleceğe Dönüş	İd:2345	Ücret:40.0
+2021/02/01 10:33:40	film eklendi	Ad:Yıldızlararası	İd:6879	Ücret:50.0
+2021/02/01 10:33:40	film eklendi	Ad:Başlangıç	İd:9879	Ücret:60.0
+2021/02/01 10:33:40	film eklendi	Ad:Prestij	İd:4657	Ücret:50.0
+2021/02/01 10:33:40	film eklendi	Ad:Olağan Şüpheliler	İd:8097	Ücret:45.0
+2021/02/01 10:33:40	film eklendi	Ad:Kuzuların Sessizliği	İd:23436	Ücret:60.0
+2021/02/01 10:33:40	film eklendi	Ad:Kanlı Elmas	İd:4565	Ücret:35.0
+2021/02/01 10:33:40	film eklendi	Ad:3 Aptal	İd:4546	Ücret:35.0
+2021/02/01 10:33:40	film eklendi	Ad:Evde Tek Başına	İd:3546	Ücret:45.0
+2021/02/01 10:33:40	film eklendi	Ad:Gurur ve Önyargı	İd:3556	Ücret:65.0
+2021/02/01 10:33:40	film eklendi	Ad:Not Defteri	İd:3546	Ücret:60.0
+2021/02/01 10:33:40	film eklendi	Ad:Aynı Yıldızın Altında	İd:43657	Ücret:45.0
+2021/02/01 10:33:49	film kiralandı	Müşteri ad soyad: Burcu Kambur, Film adı: Korku Seansı
+2021/02/01 10:34:04	film iade edildi	Müşteri ad soyad: Burcu Kambur, Film adı: Korku Seansı
